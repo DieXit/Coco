@@ -17,17 +17,8 @@
 <hr>
 
 <p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="HANSAMAL-MD" height="300" src="https://telegra.ph/file/44826e95f6e863548e408.jpg">
-
+  <a href="https://youtu.be/@diemp4"
     
-
-![forks](https://img.shields.io/github/forks/DieXit/Coco?label=Forks&style=social)
-
-![stars](https://img.shields.io/github/stars/DieXit/Coco?style=social)
-
-
-
 
 
 ## MY YT CHANNEL
