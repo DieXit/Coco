@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (HANSAMAL-MD)",
+  "name": "whatsapp-bot (COCO-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/cobrs11/HANSAMAL-MD",
+  "repository": "https://github.com/DieXit/Coco",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
