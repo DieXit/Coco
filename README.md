@@ -35,7 +35,7 @@
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@IMALKAHANSAMAL) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@diemp4) 
 
 </details>
 
@@ -77,9 +77,9 @@
 
    <a href="https://github.com/cobrs11/"><img src="https://telegra.ph/file/c718b67d351c1190e285b.jpg" width=80 height=80></a>   
 
-|**[`IMALKA-HANSAMAL`](https://github.com/cobrs11)**|
+|**[`DieFFx`](https://github.com/DieXit)**|
 
-## 👑 `HANSAMAL-MD BOT OWNER`👨‍💻 
+## 👑 `Coco-MD BOT OWNER`👨‍💻 
 
  <br>
  </p>
